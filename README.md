@@ -6,3 +6,7 @@ mkdir build && cd build
 cmake ..
 make -j$(nproc)
 ```
+
+```
+./appRoadDefectTracker
+```
